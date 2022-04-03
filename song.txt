@@ -4,3 +4,4 @@ third line
 line nuber four
 fifth line
 Hello Brazil!
+Hi, China!
